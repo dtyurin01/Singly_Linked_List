@@ -1,0 +1,22 @@
+# ninja log v5
+2	247	7272845051989780	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+247	326	7272845052837312	VorbereitungKlausur.exe	17d9c0d1403a808b
+7	278	7272857914954411	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+3	286	7272857915041509	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+286	402	7272857916159137	VorbereitungKlausur.exe	398b56b8165eb95d
+3	260	7272861057540604	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+2	260	7272861172152644	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+4	260	7272861392090034	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+2	269	7272861608817846	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+270	356	7272861609657995	VorbereitungKlausur.exe	398b56b8165eb95d
+8	249	7272863347899887	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+2	261	7272863348000948	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+261	356	7272863348942886	VorbereitungKlausur.exe	398b56b8165eb95d
+2	269	7272863600572193	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+269	356	7272863601415346	VorbereitungKlausur.exe	398b56b8165eb95d
+2	261	7272863896399109	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+8	266	7272863896450635	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+270	361	7272863897338724	VorbereitungKlausur.exe	398b56b8165eb95d
+7	245	7272864911707093	CMakeFiles/VorbereitungKlausur.dir/TListenKnoten.cpp.obj	f4d2007cb0189a94
+2	245	7272864911726983	CMakeFiles/VorbereitungKlausur.dir/main.cpp.obj	7b97c573035740c3
+245	302	7272864912272995	VorbereitungKlausur.exe	398b56b8165eb95d
